@@ -1,7 +1,7 @@
 # info664
 # My Three Topic Ideas
 
-## **Topic 1:Common [passwords](https://www.kaggle.com/datasets/shivamb/10000-most-common-passwords) from leaked databases**  
+## **Topic 1:Common [Passwords](https://www.kaggle.com/datasets/shivamb/10000-most-common-passwords) From Leaked Databases**  
 
 *This is a collection of popularly used passwords that have been linked. I think an interesting project would be to have an interactive feature, where the user could pick one of the passwords and watch an algorithm "crack the password" and have it click through like an old airline flight board  and show different scenarios and how quickly a 3 letter password for example could be cracked. Python would give an algorithm that could spit out a list quickly of the possibilities. You could also mathematically tie this to the birthday paradox and handshake problem - but I don't know if there's an efficient way to generate a data set with either of those issues. I think you could use programming to design an interactive taking the same principle but applying it first through either of those lenses.
 
